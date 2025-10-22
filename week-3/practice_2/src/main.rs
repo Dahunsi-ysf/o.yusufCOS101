@@ -7,3 +7,4 @@ fn main() {
     println!("Age is {}", age);
     println!("Sum is {}", sum);
 }
+    
